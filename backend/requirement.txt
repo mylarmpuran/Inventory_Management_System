@@ -1,0 +1,5 @@
+npm init
+npm install express
+npm i express cors morgan http-status mongoose dotenv
+
+mkdir controllers,middlewares,services,routes,utils,validations
